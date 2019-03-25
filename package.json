@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "grpc": "^1.19.0"
+    "grpc": "^1.19.0",
+    "grpc-caller": "^0.11.0"
   },
   "devDependencies": {},
   "scripts": {
