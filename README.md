@@ -1,1 +1,1 @@
-# protobuf-sandbox
+# javascript-protobuf-sandbox
